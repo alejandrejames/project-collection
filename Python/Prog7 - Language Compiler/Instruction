@@ -1,0 +1,14 @@
+NOTE
+This uses modules rply and LLVMLite running this program
+without the two modules installed might cause some errors or
+even the program not running at all.
+
+This requires ubuntu or a Unix system since we are calling system commands
+How to use:
+1. Open terminal.
+2. Navigate to main.py directory --use cd
+3. Use python3 main.py filename.inp output.exe
+	Note:
+		filename.inp - is the file input to be compiled
+		ouput.exe - is the output file of the compiler
+4. Use ./ouput.exe to run the compiled code

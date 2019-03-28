@@ -1,0 +1,8 @@
+Ana 75 84 89 85
+Victoria 80 92 86 83
+Berto 45 77 82 75
+Juan 68 89 76 78
+Pedro 97 92 95 92
+Maria 83 76 88 90
+Clara 95 97 93 90
+Anton 30 55 62 60

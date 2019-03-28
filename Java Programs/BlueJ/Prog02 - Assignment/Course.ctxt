@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Course()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Course\r\n
+comment1.params=newName
+comment1.target=java.lang.String\ getCoursename(java.lang.String)
+comment1.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n@return\ \ \ \ \ the\ sum\ of\ x\ and\ y
+comment2.params=newYear
+comment2.target=int\ getyear(int)
+comment3.params=newSubject
+comment3.target=java.lang.String\ getSubject(java.lang.String)
+comment4.params=newUnits
+comment4.target=double\ getUnits(double)
+comment5.params=newTotalU
+comment5.target=double\ getTotalU(double)
+comment6.params=newBlock
+comment6.target=char\ getBlock(char)
+numComments=7

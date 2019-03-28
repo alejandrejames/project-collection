@@ -1,0 +1,11 @@
+STRING	LENGTH
+int         3
+char        4
+array       5
+string      6
+science     7
+student     7
+computer    8
+function    8
+variable    8
+programming 11
